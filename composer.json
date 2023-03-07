@@ -1,6 +1,6 @@
 {
   "name": "subfission/cas",
-  "description": "Adds CAS support to Laravel 5.x - 9.x",
+  "description": "Adds CAS support to Laravel 5.x - 10.x",
   "keywords": [
     "CAS",
     "phpCAS",
